@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhannah629 , located in Toronto
 - 👀 I’m interested in Meme, Cooking, Game
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on making some projects with you
 - 📫 How to reach me : zhannah629@gmail.com
 
 <!---
