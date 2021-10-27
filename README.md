@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhannah629 , located in Toronto
+- 👋 Hi, I’m @zhannah629 , located in Toronto , part time UX UI deisgner, full time SWE
 - 👀 I’m interested in Meme, Cooking, Game
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on making some projects with you
